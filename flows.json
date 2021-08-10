@@ -1,0 +1,222 @@
+[
+    {
+        "id": "aea0a34b7cc79a6f",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "fbdd3b0eb404e1b9",
+        "type": "mqtt in",
+        "z": "aea0a34b7cc79a6f",
+        "name": "subscribe",
+        "topic": "sensores/#",
+        "qos": "0",
+        "datatype": "auto",
+        "broker": "fb4ec800ce798292",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "x": 100,
+        "y": 440,
+        "wires": [
+            [
+                "2b542a03c008d620"
+            ]
+        ]
+    },
+    {
+        "id": "991b00d7d301cda4",
+        "type": "comment",
+        "z": "aea0a34b7cc79a6f",
+        "name": "Subscribe",
+        "info": "",
+        "x": 100,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "6970774888038b66",
+        "type": "inject",
+        "z": "aea0a34b7cc79a6f",
+        "name": "Motor_1",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload.temperatura",
+                "v": "100",
+                "vt": "num"
+            },
+            {
+                "p": "payload.vibracao",
+                "v": "10",
+                "vt": "num"
+            },
+            {
+                "p": "payload.ligado",
+                "v": "true",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "sensores/motor1",
+        "x": 120,
+        "y": 120,
+        "wires": [
+            [
+                "311877c5b2dced78"
+            ]
+        ]
+    },
+    {
+        "id": "e62ae61ebf2e43e0",
+        "type": "mqtt out",
+        "z": "aea0a34b7cc79a6f",
+        "name": "Publish",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "fb4ec800ce798292",
+        "x": 680,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "5caff21bdf843b96",
+        "type": "comment",
+        "z": "aea0a34b7cc79a6f",
+        "name": "Publish",
+        "info": "",
+        "x": 100,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "311877c5b2dced78",
+        "type": "function",
+        "z": "aea0a34b7cc79a6f",
+        "name": "",
+        "func": "msg.payload.temperatura = Math.floor(Math.random() * msg.payload.temperatura )\nmsg.payload.vibracao = Math.floor(Math.random() * msg.payload.vibracao )\n\nif (msg.payload.temperatura > 50){\n        \n    msg.payload.status=\"Temperatura Alta\"\n}\nelse msg.payload.status = \"Normal\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 120,
+        "wires": [
+            [
+                "e62ae61ebf2e43e0"
+            ]
+        ]
+    },
+    {
+        "id": "2b542a03c008d620",
+        "type": "json",
+        "z": "aea0a34b7cc79a6f",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 300,
+        "y": 440,
+        "wires": [
+            [
+                "169af03d012518e4",
+                "bc829c044aef71e7"
+            ]
+        ]
+    },
+    {
+        "id": "bc829c044aef71e7",
+        "type": "debug",
+        "z": "aea0a34b7cc79a6f",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 470,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "169af03d012518e4",
+        "type": "csv",
+        "z": "aea0a34b7cc79a6f",
+        "name": "",
+        "sep": ",",
+        "hdrin": "",
+        "hdrout": "none",
+        "multi": "one",
+        "ret": "\\n",
+        "temp": "temperatura, vibracao, ligado, status",
+        "skip": "0",
+        "strings": true,
+        "include_empty_strings": "",
+        "include_null_values": "",
+        "x": 460,
+        "y": 440,
+        "wires": [
+            [
+                "521877f76d6d660e"
+            ]
+        ]
+    },
+    {
+        "id": "521877f76d6d660e",
+        "type": "file",
+        "z": "aea0a34b7cc79a6f",
+        "name": "",
+        "filename": "C:\\Users\\Thiago\\Desktop\\Tractician\\dados.csv",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 750,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fb4ec800ce798292",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "sessionExpiry": ""
+    }
+]

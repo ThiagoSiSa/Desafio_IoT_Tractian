@@ -1,0 +1,1 @@
+Esses são os arquivos relacionados ao Desafio Hardware IoT Operations da empresa Tractian para concorrer a vaga de IoT operations. 

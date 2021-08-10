@@ -1,0 +1,1339 @@
+temperatura,vibracao,ligado,status
+
+
+80,8,true,Temperatura Alta
+
+7,2,true,Normal
+
+69,8,true,Temperatura Alta
+
+18,0,true,Normal
+
+79,2,true,Temperatura Alta
+
+71,1,true,Temperatura Alta
+
+12,9,true,Normal
+
+91,9,true,Temperatura Alta
+
+27,7,true,Normal
+
+90,4,true,Temperatura Alta
+
+76,7,true,Temperatura Alta
+
+8,6,true,Normal
+
+53,3,true,Temperatura Alta
+
+44,3,true,Normal
+
+37,4,true,Normal
+
+14,1,true,Normal
+
+6,3,true,Normal
+
+68,4,true,Temperatura Alta
+
+28,9,true,Normal
+
+29,1,true,Normal
+
+55,7,true,Temperatura Alta
+
+63,9,true,Temperatura Alta
+
+8,7,true,Normal
+
+61,0,true,Temperatura Alta
+
+66,0,true,Temperatura Alta
+
+29,1,true,Normal
+
+78,9,true,Temperatura Alta
+
+35,5,true,Normal
+
+46,5,true,Normal
+
+72,8,true,Temperatura Alta
+
+31,5,true,Normal
+
+85,6,true,Temperatura Alta
+
+32,7,true,Normal
+
+58,2,true,Temperatura Alta
+
+49,6,true,Normal
+
+28,7,true,Normal
+
+80,3,true,Temperatura Alta
+
+18,0,true,Normal
+
+46,0,true,Normal
+
+63,5,true,Temperatura Alta
+
+71,0,true,Temperatura Alta
+
+58,8,true,Temperatura Alta
+
+44,4,true,Normal
+
+8,2,true,Normal
+
+47,0,true,Normal
+
+91,6,true,Temperatura Alta
+
+11,4,true,Normal
+
+52,2,true,Temperatura Alta
+
+6,2,true,Normal
+
+75,4,true,Temperatura Alta
+
+63,5,true,Temperatura Alta
+
+41,7,true,Normal
+
+34,0,true,Normal
+
+84,5,true,Temperatura Alta
+
+32,0,true,Normal
+
+38,8,true,Normal
+
+45,6,true,Normal
+
+37,3,true,Normal
+
+68,2,true,Temperatura Alta
+
+59,6,true,Temperatura Alta
+
+34,5,true,Normal
+
+97,1,true,Temperatura Alta
+
+19,2,true,Normal
+
+78,7,true,Temperatura Alta
+
+91,9,true,Temperatura Alta
+
+87,3,true,Temperatura Alta
+
+81,3,true,Temperatura Alta
+
+25,6,true,Normal
+
+65,8,true,Temperatura Alta
+
+93,1,true,Temperatura Alta
+
+21,7,true,Normal
+
+68,4,true,Temperatura Alta
+
+33,9,true,Normal
+
+88,4,true,Temperatura Alta
+
+97,0,true,Temperatura Alta
+
+31,3,true,Normal
+
+62,7,true,Temperatura Alta
+
+91,9,true,Temperatura Alta
+
+31,8,true,Normal
+
+52,7,true,Temperatura Alta
+
+54,1,true,Temperatura Alta
+
+53,4,true,Temperatura Alta
+
+54,5,true,Temperatura Alta
+
+8,8,true,Normal
+
+52,2,true,Temperatura Alta
+
+43,1,true,Normal
+
+42,4,true,Normal
+
+80,1,true,Temperatura Alta
+
+9,8,true,Normal
+
+13,8,true,Normal
+
+98,2,true,Temperatura Alta
+
+15,9,true,Normal
+
+20,1,true,Normal
+
+93,9,true,Temperatura Alta
+
+8,6,true,Normal
+
+7,6,true,Normal
+
+77,9,true,Temperatura Alta
+
+50,0,true,Normal
+
+56,5,true,Temperatura Alta
+
+1,0,true,Normal
+
+71,2,true,Temperatura Alta
+
+37,8,true,Normal
+
+55,2,true,Temperatura Alta
+
+7,0,true,Normal
+
+89,2,true,Temperatura Alta
+
+8,3,true,Normal
+
+90,7,true,Temperatura Alta
+
+78,8,true,Temperatura Alta
+
+54,9,true,Temperatura Alta
+
+84,5,true,Temperatura Alta
+
+42,2,true,Normal
+
+99,4,true,Temperatura Alta
+
+52,8,true,Temperatura Alta
+
+70,7,true,Temperatura Alta
+
+51,4,true,Temperatura Alta
+
+78,8,true,Temperatura Alta
+
+37,8,true,Normal
+
+55,4,true,Temperatura Alta
+
+41,3,true,Normal
+
+98,4,true,Temperatura Alta
+
+99,1,true,Temperatura Alta
+
+78,4,true,Temperatura Alta
+
+44,7,true,Normal
+
+33,4,true,Normal
+
+32,3,true,Normal
+
+17,2,true,Normal
+
+25,9,true,Normal
+
+11,0,true,Normal
+
+8,2,true,Normal
+
+67,7,true,Temperatura Alta
+
+94,7,true,Temperatura Alta
+
+50,6,true,Normal
+
+81,3,true,Temperatura Alta
+
+43,8,true,Normal
+
+68,1,true,Temperatura Alta
+
+81,4,true,Temperatura Alta
+
+71,3,true,Temperatura Alta
+
+40,5,true,Normal
+
+68,8,true,Temperatura Alta
+
+42,8,true,Normal
+
+54,3,true,Temperatura Alta
+
+83,1,true,Temperatura Alta
+
+78,2,true,Temperatura Alta
+
+56,0,true,Temperatura Alta
+
+48,1,true,Normal
+
+58,8,true,Temperatura Alta
+
+99,9,true,Temperatura Alta
+
+27,7,true,Normal
+
+5,3,true,Normal
+
+65,5,true,Temperatura Alta
+
+53,9,true,Temperatura Alta
+
+26,7,true,Normal
+
+50,3,true,Normal
+
+82,4,true,Temperatura Alta
+
+99,5,true,Temperatura Alta
+
+5,9,true,Normal
+
+21,3,true,Normal
+
+77,8,true,Temperatura Alta
+
+74,9,true,Temperatura Alta
+
+75,7,true,Temperatura Alta
+
+82,0,true,Temperatura Alta
+
+22,5,true,Normal
+
+81,1,true,Temperatura Alta
+
+57,2,true,Temperatura Alta
+
+89,8,true,Temperatura Alta
+
+73,5,true,Temperatura Alta
+
+33,7,true,Normal
+
+14,9,true,Normal
+
+26,5,true,Normal
+
+69,1,true,Temperatura Alta
+
+47,3,true,Normal
+
+62,4,true,Temperatura Alta
+
+75,0,true,Temperatura Alta
+
+75,9,true,Temperatura Alta
+
+23,3,true,Normal
+
+84,6,true,Temperatura Alta
+
+55,5,true,Temperatura Alta
+
+32,7,true,Normal
+
+56,2,true,Temperatura Alta
+
+91,2,true,Temperatura Alta
+
+96,8,true,Temperatura Alta
+
+32,4,true,Normal
+
+64,6,true,Temperatura Alta
+
+52,8,true,Temperatura Alta
+
+64,4,true,Temperatura Alta
+
+72,3,true,Temperatura Alta
+
+65,8,true,Temperatura Alta
+
+60,3,true,Temperatura Alta
+
+29,6,true,Normal
+
+70,4,true,Temperatura Alta
+
+43,8,true,Normal
+
+89,6,true,Temperatura Alta
+
+39,9,true,Normal
+
+75,5,true,Temperatura Alta
+
+2,6,true,Normal
+
+91,0,true,Temperatura Alta
+
+73,6,true,Temperatura Alta
+
+42,4,true,Normal
+
+19,1,true,Normal
+
+65,5,true,Temperatura Alta
+
+1,9,true,Normal
+
+76,7,true,Temperatura Alta
+
+79,1,true,Temperatura Alta
+
+60,2,true,Temperatura Alta
+
+36,9,true,Normal
+
+64,2,true,Temperatura Alta
+
+61,9,true,Temperatura Alta
+
+16,6,true,Normal
+
+1,2,true,Normal
+
+24,7,true,Normal
+
+56,7,true,Temperatura Alta
+
+71,2,true,Temperatura Alta
+
+83,2,true,Temperatura Alta
+
+88,6,true,Temperatura Alta
+
+24,8,true,Normal
+
+47,3,true,Normal
+
+66,1,true,Temperatura Alta
+
+45,6,true,Normal
+
+85,4,true,Temperatura Alta
+
+82,4,true,Temperatura Alta
+
+18,7,true,Normal
+
+35,4,true,Normal
+
+51,6,true,Temperatura Alta
+
+34,4,true,Normal
+
+11,2,true,Normal
+
+81,0,true,Temperatura Alta
+
+0,3,true,Normal
+
+46,2,true,Normal
+
+43,3,true,Normal
+
+55,4,true,Temperatura Alta
+
+33,9,true,Normal
+
+81,8,true,Temperatura Alta
+
+13,5,true,Normal
+
+87,9,true,Temperatura Alta
+
+18,7,true,Normal
+
+99,4,true,Temperatura Alta
+
+80,9,true,Temperatura Alta
+
+66,1,true,Temperatura Alta
+
+14,0,true,Normal
+
+23,4,true,Normal
+
+31,6,true,Normal
+
+24,5,true,Normal
+
+23,5,true,Normal
+
+95,7,true,Temperatura Alta
+
+52,2,true,Temperatura Alta
+
+95,1,true,Temperatura Alta
+
+78,1,true,Temperatura Alta
+
+12,5,true,Normal
+
+45,3,true,Normal
+
+78,5,true,Temperatura Alta
+
+13,2,true,Normal
+
+45,7,true,Normal
+
+36,7,true,Normal
+
+58,7,true,Temperatura Alta
+
+52,0,true,Temperatura Alta
+
+56,0,true,Temperatura Alta
+
+34,5,true,Normal
+
+4,1,true,Normal
+
+64,4,true,Temperatura Alta
+
+95,5,true,Temperatura Alta
+
+61,6,true,Temperatura Alta
+
+48,7,true,Normal
+
+23,0,true,Normal
+
+43,2,true,Normal
+
+80,1,true,Temperatura Alta
+
+91,6,true,Temperatura Alta
+
+73,2,true,Temperatura Alta
+
+37,3,true,Normal
+
+32,2,true,Normal
+
+42,2,true,Normal
+
+75,1,true,Temperatura Alta
+
+18,4,true,Normal
+
+73,9,true,Temperatura Alta
+
+81,7,true,Temperatura Alta
+
+57,3,true,Temperatura Alta
+
+91,2,true,Temperatura Alta
+
+19,5,true,Normal
+
+22,8,true,Normal
+
+20,3,true,Normal
+
+54,3,true,Temperatura Alta
+
+58,5,true,Temperatura Alta
+
+23,0,true,Normal
+
+88,2,true,Temperatura Alta
+
+17,8,true,Normal
+
+12,0,true,Normal
+
+25,1,true,Normal
+
+28,5,true,Normal
+
+48,6,true,Normal
+
+39,7,true,Normal
+
+71,9,true,Temperatura Alta
+
+69,2,true,Temperatura Alta
+
+26,2,true,Normal
+
+7,0,true,Normal
+
+67,4,true,Temperatura Alta
+
+11,3,true,Normal
+
+53,7,true,Temperatura Alta
+
+81,3,true,Temperatura Alta
+
+12,1,true,Normal
+
+6,4,true,Normal
+
+44,7,true,Normal
+
+7,6,true,Normal
+
+18,8,true,Normal
+
+66,5,true,Temperatura Alta
+
+36,3,true,Normal
+
+49,2,true,Normal
+
+90,2,true,Temperatura Alta
+
+11,4,true,Normal
+
+87,3,true,Temperatura Alta
+
+83,5,true,Temperatura Alta
+
+55,4,true,Temperatura Alta
+
+4,7,true,Normal
+
+3,4,true,Normal
+
+95,5,true,Temperatura Alta
+
+49,8,true,Normal
+
+62,5,true,Temperatura Alta
+
+95,5,true,Temperatura Alta
+
+55,3,true,Temperatura Alta
+
+36,7,true,Normal
+
+55,5,true,Temperatura Alta
+
+98,8,true,Temperatura Alta
+
+92,2,true,Temperatura Alta
+
+37,6,true,Normal
+
+98,7,true,Temperatura Alta
+
+97,8,true,Temperatura Alta
+
+93,8,true,Temperatura Alta
+
+16,5,true,Normal
+
+80,1,true,Temperatura Alta
+
+64,9,true,Temperatura Alta
+
+14,4,true,Normal
+
+84,3,true,Temperatura Alta
+
+99,9,true,Temperatura Alta
+
+24,2,true,Normal
+
+61,6,true,Temperatura Alta
+
+46,6,true,Normal
+
+4,0,true,Normal
+
+72,8,true,Temperatura Alta
+
+36,1,true,Normal
+
+70,2,true,Temperatura Alta
+
+0,4,true,Normal
+
+48,8,true,Normal
+
+98,3,true,Temperatura Alta
+
+98,0,true,Temperatura Alta
+
+3,4,true,Normal
+
+83,2,true,Temperatura Alta
+
+78,0,true,Temperatura Alta
+
+91,4,true,Temperatura Alta
+
+38,3,true,Normal
+
+36,7,true,Normal
+
+37,1,true,Normal
+
+38,9,true,Normal
+
+19,3,true,Normal
+
+52,5,true,Temperatura Alta
+
+63,8,true,Temperatura Alta
+
+78,8,true,Temperatura Alta
+
+73,1,true,Temperatura Alta
+
+67,3,true,Temperatura Alta
+
+94,0,true,Temperatura Alta
+
+13,0,true,Normal
+
+66,1,true,Temperatura Alta
+
+43,1,true,Normal
+
+38,4,true,Normal
+
+90,6,true,Temperatura Alta
+
+19,8,true,Normal
+
+26,3,true,Normal
+
+63,7,true,Temperatura Alta
+
+68,9,true,Temperatura Alta
+
+46,1,true,Normal
+
+51,1,true,Temperatura Alta
+
+6,3,true,Normal
+
+88,2,true,Temperatura Alta
+
+64,9,true,Temperatura Alta
+
+21,3,true,Normal
+
+82,9,true,Temperatura Alta
+
+74,0,true,Temperatura Alta
+
+61,2,true,Temperatura Alta
+
+94,6,true,Temperatura Alta
+
+46,2,true,Normal
+
+83,0,true,Temperatura Alta
+
+18,0,true,Normal
+
+57,6,true,Temperatura Alta
+
+84,7,true,Temperatura Alta
+
+37,1,true,Normal
+
+14,6,true,Normal
+
+31,7,true,Normal
+
+55,1,true,Temperatura Alta
+
+46,2,true,Normal
+
+24,2,true,Normal
+
+95,1,true,Temperatura Alta
+
+98,6,true,Temperatura Alta
+
+24,2,true,Normal
+
+90,9,true,Temperatura Alta
+
+84,7,true,Temperatura Alta
+
+38,4,true,Normal
+
+68,2,true,Temperatura Alta
+
+13,6,true,Normal
+
+29,3,true,Normal
+
+13,0,true,Normal
+
+12,4,true,Normal
+
+94,8,true,Temperatura Alta
+
+43,5,true,Normal
+
+26,0,true,Normal
+
+46,6,true,Normal
+
+75,5,true,Temperatura Alta
+
+99,8,true,Temperatura Alta
+
+38,2,true,Normal
+
+95,3,true,Temperatura Alta
+
+62,8,true,Temperatura Alta
+
+53,6,true,Temperatura Alta
+
+17,5,true,Normal
+
+22,7,true,Normal
+
+37,3,true,Normal
+
+97,9,true,Temperatura Alta
+
+81,8,true,Temperatura Alta
+
+45,3,true,Normal
+
+70,8,true,Temperatura Alta
+
+37,6,true,Normal
+
+29,9,true,Normal
+
+64,9,true,Temperatura Alta
+
+73,2,true,Temperatura Alta
+
+79,7,true,Temperatura Alta
+
+61,3,true,Temperatura Alta
+
+37,2,true,Normal
+
+38,4,true,Normal
+
+87,0,true,Temperatura Alta
+
+31,1,true,Normal
+
+0,2,true,Normal
+
+62,7,true,Temperatura Alta
+
+5,1,true,Normal
+
+90,4,true,Temperatura Alta
+
+38,5,true,Normal
+
+40,7,true,Normal
+
+0,3,true,Normal
+
+85,1,true,Temperatura Alta
+
+46,1,true,Normal
+
+64,2,true,Temperatura Alta
+
+81,6,true,Temperatura Alta
+
+38,4,true,Normal
+
+94,6,true,Temperatura Alta
+
+13,6,true,Normal
+
+32,2,true,Normal
+
+64,8,true,Temperatura Alta
+
+89,1,true,Temperatura Alta
+
+71,0,true,Temperatura Alta
+
+82,4,true,Temperatura Alta
+
+45,5,true,Normal
+
+95,5,true,Temperatura Alta
+
+36,2,true,Normal
+
+36,1,true,Normal
+
+92,8,true,Temperatura Alta
+
+15,2,true,Normal
+
+5,8,true,Normal
+
+42,8,true,Normal
+
+69,5,true,Temperatura Alta
+
+50,4,true,Normal
+
+62,5,true,Temperatura Alta
+
+42,2,true,Normal
+
+78,2,true,Temperatura Alta
+
+42,5,true,Normal
+
+7,9,true,Normal
+
+64,8,true,Temperatura Alta
+
+33,0,true,Normal
+
+76,8,true,Temperatura Alta
+
+10,5,true,Normal
+
+73,8,true,Temperatura Alta
+
+75,5,true,Temperatura Alta
+
+1,2,true,Normal
+
+65,3,true,Temperatura Alta
+
+70,9,true,Temperatura Alta
+
+11,6,true,Normal
+
+86,3,true,Temperatura Alta
+
+36,2,true,Normal
+
+56,0,true,Temperatura Alta
+
+93,8,true,Temperatura Alta
+
+32,6,true,Normal
+
+2,3,true,Normal
+
+17,4,true,Normal
+
+36,1,true,Normal
+
+2,8,true,Normal
+
+87,9,true,Temperatura Alta
+
+98,6,true,Temperatura Alta
+
+11,6,true,Normal
+
+40,3,true,Normal
+
+36,5,true,Normal
+
+59,6,true,Temperatura Alta
+
+34,9,true,Normal
+
+63,6,true,Temperatura Alta
+
+77,1,true,Temperatura Alta
+
+89,8,true,Temperatura Alta
+
+63,5,true,Temperatura Alta
+
+83,4,true,Temperatura Alta
+
+67,4,true,Temperatura Alta
+
+84,1,true,Temperatura Alta
+
+78,6,true,Temperatura Alta
+
+67,8,true,Temperatura Alta
+
+10,8,true,Normal
+
+22,7,true,Normal
+
+97,5,true,Temperatura Alta
+
+8,0,true,Normal
+
+57,5,true,Temperatura Alta
+
+85,9,true,Temperatura Alta
+
+15,2,true,Normal
+
+46,1,true,Normal
+
+12,4,true,Normal
+
+69,1,true,Temperatura Alta
+
+31,0,true,Normal
+
+81,5,true,Temperatura Alta
+
+19,1,true,Normal
+
+74,7,true,Temperatura Alta
+
+74,3,true,Temperatura Alta
+
+96,3,true,Temperatura Alta
+
+2,1,true,Normal
+
+3,5,true,Normal
+
+71,2,true,Temperatura Alta
+
+20,8,true,Normal
+
+11,7,true,Normal
+
+10,6,true,Normal
+
+37,6,true,Normal
+
+62,6,true,Temperatura Alta
+
+33,2,true,Normal
+
+96,2,true,Temperatura Alta
+
+80,8,true,Temperatura Alta
+
+13,3,true,Normal
+
+18,2,true,Normal
+
+96,6,true,Temperatura Alta
+
+5,7,true,Normal
+
+10,1,true,Normal
+
+9,7,true,Normal
+
+28,3,true,Normal
+
+59,4,true,Temperatura Alta
+
+20,9,true,Normal
+
+21,1,true,Normal
+
+24,4,true,Normal
+
+35,3,true,Normal
+
+36,3,true,Normal
+
+58,1,true,Temperatura Alta
+
+44,2,true,Normal
+
+54,6,true,Temperatura Alta
+
+23,7,true,Normal
+
+99,7,true,Temperatura Alta
+
+37,2,true,Normal
+
+66,6,true,Temperatura Alta
+
+75,6,true,Temperatura Alta
+
+16,6,true,Normal
+
+52,7,true,Temperatura Alta
+
+79,8,true,Temperatura Alta
+
+41,6,true,Normal
+
+18,0,true,Normal
+
+17,1,true,Normal
+
+39,7,true,Normal
+
+97,3,true,Temperatura Alta
+
+92,6,true,Temperatura Alta
+
+84,2,true,Temperatura Alta
+
+51,9,true,Temperatura Alta
+
+25,6,true,Normal
+
+34,7,true,Normal
+
+49,9,true,Normal
+
+86,0,true,Temperatura Alta
+
+69,3,true,Temperatura Alta
+
+31,7,true,Normal
+
+9,9,true,Normal
+
+23,2,true,Normal
+
+62,5,true,Temperatura Alta
+
+41,7,true,Normal
+
+93,3,true,Temperatura Alta
+
+98,4,true,Temperatura Alta
+
+62,1,true,Temperatura Alta
+
+77,2,true,Temperatura Alta
+
+6,8,true,Normal
+
+73,2,true,Temperatura Alta
+
+12,9,true,Normal
+
+3,9,true,Normal
+
+33,1,true,Normal
+
+2,8,true,Normal
+
+0,9,true,Normal
+
+19,0,true,Normal
+
+62,4,true,Temperatura Alta
+
+88,5,true,Temperatura Alta
+
+41,1,true,Normal
+
+98,8,true,Temperatura Alta
+
+71,4,true,Temperatura Alta
+
+95,6,true,Temperatura Alta
+
+61,7,true,Temperatura Alta
+
+25,5,true,Normal
+
+44,3,true,Normal
+
+45,7,true,Normal
+
+88,5,true,Temperatura Alta
+
+56,8,true,Temperatura Alta
+
+38,0,true,Normal
+
+81,5,true,Temperatura Alta
+
+86,7,true,Temperatura Alta
+
+34,7,true,Normal
+
+87,4,true,Temperatura Alta
+
+70,9,true,Temperatura Alta
+
+16,0,true,Normal
+
+86,6,true,Temperatura Alta
+
+72,3,true,Temperatura Alta
+
+58,9,true,Temperatura Alta
+
+85,7,true,Temperatura Alta
+
+7,8,true,Normal
+
+94,2,true,Temperatura Alta
+
+51,7,true,Temperatura Alta
+
+67,1,true,Temperatura Alta
+
+13,4,true,Normal
+
+53,6,true,Temperatura Alta
+
+44,2,true,Normal
+
+50,4,true,Normal
+
+26,2,true,Normal
+
+55,9,true,Temperatura Alta
+
+75,5,true,Temperatura Alta
+
+46,4,true,Normal
+
+25,4,true,Normal
+
+77,8,true,Temperatura Alta
+
+81,5,true,Temperatura Alta
+
+87,7,true,Temperatura Alta
+
+11,1,true,Normal
+
+61,5,true,Temperatura Alta
+
+30,5,true,Normal
+
+71,2,true,Temperatura Alta
+
+65,0,true,Temperatura Alta
+
+60,6,true,Temperatura Alta
+
+63,8,true,Temperatura Alta
+
+51,5,true,Temperatura Alta
+
+63,7,true,Temperatura Alta
+
+95,5,true,Temperatura Alta
+
+60,3,true,Temperatura Alta
+
+25,7,true,Normal
+
+51,2,true,Temperatura Alta
+
+24,5,true,Normal
+
+76,7,true,Temperatura Alta
+
+34,7,true,Normal
+
+9,1,true,Normal
+
+11,9,true,Normal
+
+59,9,true,Temperatura Alta
+
+96,6,true,Temperatura Alta
+
+59,0,true,Temperatura Alta
+
+30,7,true,Normal
+
+68,3,true,Temperatura Alta
+
+54,7,true,Temperatura Alta
+
+73,2,true,Temperatura Alta
+
+55,6,true,Temperatura Alta
+
+4,8,true,Normal
+
+46,5,true,Normal
+
+66,0,true,Temperatura Alta
+
+87,5,true,Temperatura Alta
+
+5,6,true,Normal
+
+97,6,true,Temperatura Alta
+
+49,6,true,Normal
+
+69,6,true,Temperatura Alta
+
+54,6,true,Temperatura Alta
+
+69,6,true,Temperatura Alta
+
+31,1,true,Normal
+
+93,1,true,Temperatura Alta
+
+41,0,true,Normal
+
+19,9,true,Normal
+
+95,8,true,Temperatura Alta
+
+44,9,true,Normal
+
+99,3,true,Temperatura Alta
+
+4,4,true,Normal
+
+81,4,true,Temperatura Alta
+
+93,3,true,Temperatura Alta
+
+8,2,true,Normal
+
+80,4,true,Temperatura Alta
+
+60,9,true,Temperatura Alta
+
+30,0,true,Normal
+
+14,3,true,Normal
+
+56,6,true,Temperatura Alta
+
+11,5,true,Normal
+
+90,0,true,Temperatura Alta
+
